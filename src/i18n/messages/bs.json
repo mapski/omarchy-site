@@ -214,7 +214,6 @@
   "Position in the track": "Pozicija u pjesmi",
   "Posts are shown in their original language.": "Objave se prikazuju na originalnom jeziku.",
   "Potato PCs": "Krompir PC-jevi",
-  "Press T, or tap here. Inside Omarchy it is Super + Ctrl + Shift + Space.": "Pritisni T ili klikni ovdje. Unutar Omarchyja to je Super + Ctrl + Shift + Space.",
   "Previous meetups": "Prethodni meetupi",
   "Previous photo": "Prethodna fotografija",
   "Previous theme": "Prethodna tema",
@@ -345,5 +344,18 @@
   "week of": "sedmica od",
   "How to report a vulnerability in Omarchy through our HackerOne bug bounty program, or privately by email, and the people credited for doing exactly that.": "Kako prijaviti ranjivost u Omarchyju kroz naš bug bounty program na HackerOneu ili privatno e-mailom, i ljudi koji su upravo to već uradili.",
   "Everywhere": "Sve",
-  "SpaceXSI joins as a Founding Corporate Patron with $1.5 million in Grok tokens": "SpaceXSI se pridružuje kao osnivački korporativni pokrovitelj sa 1.5 miliona USD u Grok tokenima"
+  "SpaceXSI joins as a Founding Corporate Patron with $1.5 million in Grok tokens": "SpaceXSI se pridružuje kao osnivački korporativni pokrovitelj sa 1.5 miliona USD u Grok tokenima",
+  "All languages": "Svi jezici",
+  "Current language": "Trenutni jezik",
+  "No languages match": "Nijedan jezik ne odgovara",
+  "Search languages": "Pretraži jezike",
+  "Close menu": "Zatvori meni",
+  "Menu": "Meni",
+  "Open GitHub": "Otvori GitHub",
+  "Sound off": "Zvuk isključen",
+  "Sound on": "Zvuk uključen",
+  "Sound unavailable": "Zvuk nedostupan",
+  "The sound could not start": "Zvuk se nije mogao pokrenuti",
+  "Turn the sound off": "Isključi zvuk",
+  "Turn the sound on": "Uključi zvuk"
 }
